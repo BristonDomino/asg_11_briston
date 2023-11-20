@@ -1,5 +1,5 @@
 import 'package:mvc_pattern/mvc_pattern.dart';
-import 'package:asg_11_briston/Model.dart';
+import 'package:asg_11_briston/model.dart';
 
 class Controller extends ControllerMVC {
   factory Controller() => _this ??= Controller._();
